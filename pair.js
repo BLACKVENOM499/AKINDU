@@ -1030,7 +1030,7 @@ case 'song': {
         const video = search.videos[0];
 
         // 🎵 Yupra API
-        const api = `https://api.yupra.my.id/api/downloader/ytmp3?url=${encodeURIComponent(video.url)}`;
+        const api = `https://www.movanest.xyz/v2/ytmp3?url=${encodeURIComponent(ytUrl)}`;
         const res = await axios.get(api, { timeout: 60000 });
 
         if (!res?.data?.result?.download) throw "API_FAILED";
