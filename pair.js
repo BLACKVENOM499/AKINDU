@@ -23,7 +23,7 @@ const {
   jidNormalizedUser,
   downloadContentFromMessage,
   DisconnectReason
-} = require('baileys');
+} = require('baileyz');
 
 // ---------------- CONFIG ----------------
 const BOT_NAME_FREE = 'ᴀᴋɪɴᴅᴜ-ᴍᴅ';
