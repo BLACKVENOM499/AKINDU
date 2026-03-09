@@ -23,7 +23,7 @@ const {
   jidNormalizedUser,
   downloadContentFromMessage,
   DisconnectReason
-} = require('dct-dula-baileys');
+} = require('@whiskeysockets/baileys');
 
 // ---------------- CONFIG ----------------
 const BOT_NAME_FREE = 'ᴀᴋɪɴᴅᴜ-ᴍᴅ';
