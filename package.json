@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dct-dula-baileys": "2.0.0",
+    "@whiskeysockets/baileys": "npm:tera-baileys",
     "express": "latest",
     "fs-extra": "latest",
     "pino": "latest",
