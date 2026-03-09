@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.4",
+    "@whiskeysockets/baileys": "npm:@dark-yasiya/baileys",
     "express": "latest",
     "fs-extra": "latest",
     "pino": "latest",
